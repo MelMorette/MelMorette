@@ -6,9 +6,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/melmorette">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melmorette&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melmorette&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="https://github.com/MelMorette">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Mel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,6 +26,6 @@
   <a href = "mailto:contatomellissamorette@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mellissa-morette/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/melmorette/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MelMorette/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
