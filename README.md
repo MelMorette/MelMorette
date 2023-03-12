@@ -2,7 +2,7 @@
     <div>
         <h1>Sobre Mim</h1>
         <p>Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack em formação</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
-        <div style="display: flex; flex-direction: column;">
+        <div style="display: flex;">
         <aside style="width: 50em;">
             <ul>
           <li><img align="center" alt="Mel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML 5</li>
@@ -14,7 +14,7 @@
           <li><img align="center" alt="Mel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> PHP</li>
         </ul>
         </aside>
-        <aside>
+        <aside style="width: 50em;>
             <a href="https://github.com/MelMorette">
           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=onedark"/>
