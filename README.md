@@ -31,8 +31,8 @@
 
 <div align="center">
 	<a href="https://github.com/MelMorette">
-		<img min-width="450px" max-width="450px" width="430px" align="center" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-		<img min-width="340px" max-width="340px" width="320px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=dark"/>
+		<img min-width="450px" max-width="450px" width="430px" align="center" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=monokai&include_all_commits=true&count_private=false"/>
+		<img min-width="340px" max-width="340px" width="320px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=monokai"/>
 	</a>
 </div>
 
