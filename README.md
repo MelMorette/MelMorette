@@ -2,16 +2,15 @@
     <div>
       <h1>Sobre Mim</h1>
         <p>Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack em formação</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
+        <ul>
+          <li>HTML 5</li>
+          <li>CSS 3</li>
+          <li>Javascript</li>
+          <li>React.js</li>
+          <li>Node.js</li>
+          <li>Typescript</li>
+        </ul>
     </div>
-
-    <ul>
-      <li>HTML 5</li>
-      <li>CSS 3</li>
-      <li>Javascript</li>
-      <li>React.js</li>
-      <li>Node.js</li>
-      <li>Typescript</li>
-    </ul>
     
      <p>Tenho experiência em desenvolvimento de software, incluindo <strong>[experiências anteriores]</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
     <h2>Projetos Pessoais</h2>
