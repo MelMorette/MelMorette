@@ -7,7 +7,7 @@
           <li><img align="center" alt="Mel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3</li>
           <li><img align="center" alt="Mel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript</li>
           <li><img align="center" alt="Mel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React.js</li>
-          <li><img align="center" alt="Mel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-plain.svg"> Node.js</li>
+          <li><img align="center" alt="Mel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js</li>
           <li><img align="center" alt="Mel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> Typescript</li>
         </ul>
     </div>
