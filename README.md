@@ -13,6 +13,11 @@
           <li><img align="center" alt="Mel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> PHP</li>
         </ul>
         </aside>
+        <aside>
+            <a href="https://github.com/MelMorette">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=onedark"/>
+        </aside>
         
         <p>Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
     </div>
@@ -37,9 +42,7 @@
 </main>
 <footer>
     <div style="display: inline_block" align="center"><br>
-  <a href="https://github.com/MelMorette">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=onedark"/>
+  
 </div>
 </footer>
 
