@@ -3,7 +3,7 @@
         <h1>Sobre Mim</h1>
         <p>Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack em formação</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
         <div style="display: flex; flex-direction: column;">
-        <aside>
+        <aside style="width: 50em;">
             <ul>
           <li><img align="center" alt="Mel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML 5</li>
           <li><img align="center" alt="Mel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3</li>
