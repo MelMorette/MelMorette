@@ -3,12 +3,12 @@
       <h1>Sobre Mim</h1>
         <p>Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack em formação</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
         <ul>
-          <li>HTML 5</li>
-          <li>CSS 3</li>
+          <li><img align="center" alt="Mel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML 5</li>
+          <li><img align="center" alt="Mel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3</li>
           <li><img align="center" alt="Mel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript</li>
           <li><img align="center" alt="Mel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React.js</li>
-          <li>Node.js</li>
-          <li>Typescript</li>
+          <li><img align="center" alt="Mel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg"> Node.js</li>
+          <li><img align="center" alt="Mel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> Typescript</li>
         </ul>
     </div>
     
@@ -34,11 +34,11 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   
-  <img align="center" alt="Mel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
-  <img align="center" alt="Mel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  
+  
+  
 </div>
   
   ##
