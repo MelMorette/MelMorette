@@ -21,24 +21,20 @@
             <h2>Projetos Pessoais</h2>
         </div>
         <ul>
-          <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
-          <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
-          <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
+          <li><a href="http://pokedex-mellissa-morette.surge.sh/"><strong>Pokédex</strong></a> - Projeto criado em React.js consumindo a Poke API.</li>
         </ul>
-        <h2>Contato</h2>
-        <ul>
-          <li>Email do desenvolvedor.</li>
-          <li>Perfil do LinkedIn.</li>
-          <li>Outras formas de contato.</li>
-        </ul>
+        <div align="center">
+            <h2>Contato</h2>
+        </div>
+        <div align="center">
+          <a href="https://github.com/MelMorette">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=onedark"/>
+        </div>
     </div>
 </main>
 
-<div align="center">
-  <a href="https://github.com/MelMorette">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=onedark"/>
-</div>
+
 <div style="display: inline_block" align="center"><br>
   
   
