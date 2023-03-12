@@ -14,19 +14,20 @@
     </div>
 </header>
 <main>
-
-    <h2>Projetos Pessoais</h2>
-    <ul>
-      <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
-      <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
-      <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
-    </ul>
-    <h2>Contato</h2>
-    <ul>
-      <li>Email do desenvolvedor.</li>
-      <li>Perfil do LinkedIn.</li>
-      <li>Outras formas de contato.</li>
-    </ul>
+    <div>
+        <h2>Projetos Pessoais</h2>
+        <ul>
+          <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
+          <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
+          <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
+        </ul>
+        <h2>Contato</h2>
+        <ul>
+          <li>Email do desenvolvedor.</li>
+          <li>Perfil do LinkedIn.</li>
+          <li>Outras formas de contato.</li>
+        </ul>
+    </div>
 </main>
 
 <div align="center">
