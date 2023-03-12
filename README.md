@@ -11,8 +11,9 @@
           <li><img align="center" alt="Mel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> Typescript</li>
         </ul>
     </div>
-    
-     <p>Tenho experiência em desenvolvimento de software, incluindo <strong>[experiências anteriores]</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
+</header>
+<main>
+         <p>Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
     <h2>Projetos Pessoais</h2>
     <ul>
       <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
@@ -25,7 +26,7 @@
       <li>Perfil do LinkedIn.</li>
       <li>Outras formas de contato.</li>
     </ul>
-</header>
+</main>
 
 <div align="center">
   <a href="https://github.com/MelMorette">
