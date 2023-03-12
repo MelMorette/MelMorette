@@ -1,5 +1,4 @@
-<header>
-    <div style="display: flex;">
+<header style="display: flex;">
         <div style="width: 50%;">
             <h1>Sobre Mim</h1>
             <p>Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack em formação</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
@@ -19,7 +18,6 @@
                 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=onedark"/>
             </a>
         </div>
-    </div>
     <p>Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
 </header>
 <main>
