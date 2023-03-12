@@ -1,10 +1,9 @@
 <header>
-    <div>
-        <h1>Sobre Mim</h1>
-        <p>Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack em formação</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
-        <div style="display: flex; flex-direction: column;">
-            <aside style="display: inline; width: 50%;">
-                <ul>
+    <div style="display: flex;">
+        <div style="width: 50%;">
+            <h1>Sobre Mim</h1>
+            <p>Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack em formação</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
+            <ul>
               <li><img align="center" alt="Mel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML 5</li>
               <li><img align="center" alt="Mel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3</li>
               <li><img align="center" alt="Mel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> Javascript</li>
@@ -13,15 +12,15 @@
               <li><img align="center" alt="Mel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> Typescript</li>
               <li><img align="center" alt="Mel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> PHP</li>
             </ul>
-            </aside>
-            <aside style="display: inline; width: 50%;">
-                <a href="https://github.com/MelMorette">
-              <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-              <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=onedark"/>
-            </aside>
         </div>
-        <p>Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
+        <div style="width: 50%;">
+            <a href="https://github.com/MelMorette">
+                <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=onedark"/>
+            </a>
+        </div>
     </div>
+    <p>Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
 </header>
 <main>
     <h2>Projetos Pessoais</h2>
