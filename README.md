@@ -1,5 +1,5 @@
-<div>
-    <div align="center">
+<header>
+    <div>
       <h1>Sobre Mim</h1>
         <p>Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack em formação</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
     </div>
@@ -26,7 +26,7 @@
       <li>Perfil do LinkedIn.</li>
       <li>Outras formas de contato.</li>
     </ul>
-</div>
+</header>
 
 <div align="center">
   <a href="https://github.com/MelMorette">
