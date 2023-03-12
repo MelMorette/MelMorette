@@ -24,15 +24,12 @@
     </div>
 </header>
 <main>
-    <div>
-        <div align="center">
-            <h2>Projetos Pessoais</h2>
-        </div>
-        <ul>
-          <li><a href="http://pokedex-mellissa-morette.surge.sh/"><strong>Pokédex</strong></a> - Projeto criado em React.js consumindo a Poke API.</li>
-        </ul>
-       
+    <div align="center">
+        <h2>Projetos Pessoais</h2>
     </div>
+    <ul>
+        <li><a href="http://pokedex-mellissa-morette.surge.sh/"><strong>Pokédex</strong></a> - Projeto criado em React.js consumindo a Poke API.</li>
+    </ul>
 </main>
 <footer>
  <div align="center">
