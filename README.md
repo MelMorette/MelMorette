@@ -17,7 +17,9 @@
 </header>
 <main>
     <div>
-        <h2>Projetos Pessoais</h2>
+        <div align="center">
+            <h2>Projetos Pessoais</h2>
+        </div>
         <ul>
           <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
           <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
