@@ -10,10 +10,11 @@
           <li><img align="center" alt="Mel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js</li>
           <li><img align="center" alt="Mel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> Typescript</li>
         </ul>
+        <p>Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
     </div>
 </header>
 <main>
-         <p>Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
+
     <h2>Projetos Pessoais</h2>
     <ul>
       <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
