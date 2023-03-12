@@ -1,14 +1,7 @@
-  <head>
-    <title>Sobre o Desenvolvedor</title>
-  </head>
-  <body>
-    <h1>Sobre o Desenvolvedor</h1>
-    <p>Olá! Meu nome é <strong>[Nome do Desenvolvedor]</strong> e sou <strong>[breve descrição, como por exemplo: desenvolvedor full stack]</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
-    <ul>
-      <li>[tecnologia 1]</li>
-      <li>[tecnologia 2]</li>
-      <li>[tecnologia 3]</li>
-    </ul>
+
+    
+    
+
     <p>Tenho experiência em desenvolvimento de software, incluindo <strong>[experiências anteriores]</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
     <h2>Projetos Pessoais</h2>
     <ul>
@@ -24,7 +17,16 @@
     </ul>
 
 <div align="center">
-<h2>Hi there! 👋 I'm Mellissa Morette</h1>
+  <h1>Sobre o Desenvolvedor</h1>
+    <p>Olá! Meu nome é <strong>[Mellissa Morette]</strong> e sou <strong>[desenvolvedora full stack em formação]</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
+    <ul>
+      <li>[HTML 5]</li>
+      <li>[CSS 3]</li>
+      <li>[Javascript]</li>
+      <li>[React.js]</li>
+      <li>[Node.js]</li>
+      <li>[Typescript]</li>
+    </ul>
 
 <p>🔭 I’m currently working on IT and Data Analytics</p>
 <p>🌱 I’m currently learning Web Full Stack</p>
