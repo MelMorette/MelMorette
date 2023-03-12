@@ -1,3 +1,28 @@
+  <head>
+    <title>Sobre o Desenvolvedor</title>
+  </head>
+  <body>
+    <h1>Sobre o Desenvolvedor</h1>
+    <p>Olá! Meu nome é <strong>[Nome do Desenvolvedor]</strong> e sou <strong>[breve descrição, como por exemplo: desenvolvedor full stack]</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
+    <ul>
+      <li>[tecnologia 1]</li>
+      <li>[tecnologia 2]</li>
+      <li>[tecnologia 3]</li>
+    </ul>
+    <p>Tenho experiência em desenvolvimento de software, incluindo <strong>[experiências anteriores]</strong>, e tenho trabalhado em diversos projetos pessoais que você pode conferir abaixo.</p>
+    <h2>Projetos Pessoais</h2>
+    <ul>
+      <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
+      <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
+      <li><a href="[link para o projeto]"><strong>Nome do Projeto</strong></a> - Breve descrição do projeto.</li>
+    </ul>
+    <h2>Contato</h2>
+    <ul>
+      <li>Email do desenvolvedor.</li>
+      <li>Perfil do LinkedIn.</li>
+      <li>Outras formas de contato.</li>
+    </ul>
+
 <div align="center">
 <h2>Hi there! 👋 I'm Mellissa Morette</h1>
 
