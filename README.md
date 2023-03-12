@@ -1,5 +1,5 @@
 <header>
-    <div>
+    <div style="display: flex;">
         <h1>Sobre Mim</h1>
         <p>Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack em formação</strong>. Atualmente, estou trabalhando com as seguintes tecnologias:</p>
         <aside>
