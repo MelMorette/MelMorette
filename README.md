@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="300px" align="right" alt="Computador MelMorette">
 	
 <p align="left"> 
-<!-- 	na <a href="https://www.gismedia.pt/pt-pt/">GISMEDIA</a></strong> -->
+<!-- 	na <strong><a href="https://www.gismedia.pt/pt-pt/">GISMEDIA</a></strong> -->
 	Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack.
 	Atualmente, estou trabalhando com as seguintes tecnologias:
 </p>
@@ -46,8 +46,8 @@
   	Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos que você pode conferir abaixo. ⤵️
 	</p>
 	<ul>
-		<li><a href="http://pokedex-mellissa-morette.surge.sh/"><strong>Pokédex</strong></a> - Projeto criado em React.js consumindo a Poke API para finalizar os módulos de front-end do bootcamp da Labenu</li>
-		<li><a href="https://www.louielouie.biz"><strong>Loja de Discos Louie Louie</strong></a> - Projeto criado com PHP, Bootstrap, JQuery, Ajax e MySQL. Trabalho feito para um cliente da <a href="https://www.gismedia.pt/pt-pt/">GISMEDIA</a></strong></li>
+		<li><a href="http://pokedex-mellissa-morette.surge.sh/" target="_blank"><strong>Pokédex</strong></a> - Projeto criado em React.js consumindo a Poke API para finalizar os módulos de front-end do bootcamp da Labenu</li>
+		<li><a href="https://www.louielouie.biz" target="_blank"><strong>Loja de Discos Louie Louie</strong></a> - Projeto criado com PHP, Bootstrap, JQuery, Ajax e MySQL. Trabalho feito para um cliente da <strong><a href="https://www.gismedia.pt/pt-pt/" target="_blank">GISMEDIA</a></strong> em conjunto com o PO (Product Owner) e a UX Designer da empresa</li>
 	</ul>
 	
 <br>
