@@ -3,7 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="300px" align="right" alt="Computador MelMorette">
 	
 <p align="left"> 
-	Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack na <a href="https://www.gismedia.pt/pt-pt/">GISMEDIA</a></strong>.
+<!-- 	na <a href="https://www.gismedia.pt/pt-pt/">GISMEDIA</a></strong> -->
+	Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack.
 	Atualmente, estou trabalhando com as seguintes tecnologias:
 </p>
 	
