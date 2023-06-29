@@ -48,7 +48,7 @@
 	</p>
 	<ul>
 		<li><a href="http://pokedex-mellissa-morette.surge.sh/" target="_blank"><strong>Pokédex</strong></a> - Projeto criado em React.js consumindo a Poke API para finalizar os módulos de front-end do bootcamp da Labenu</li>
-		<li><a href="https://www.louielouie.biz" target="_blank"><strong>Loja de Discos Louie Louie</strong></a> - Projeto criado com PHP, Bootstrap, JQuery, Ajax e MySQL. Trabalho feito para um cliente da <strong><a href="https://www.gismedia.pt/pt-pt/" target="_blank">GISMEDIA</a></strong> em conjunto com o PO (Product Owner) e a UX Designer da empresa</li>
+		<li><a href="https://www.louielouie.biz" target="_blank"><strong>Loja de Discos Louie Louie</strong></a> - Projeto criado com PHP, Bootstrap, JQuery e MySQL. Trabalho feito para um cliente da <strong><a href="https://www.gismedia.pt/pt-pt/" target="_blank">GISMEDIA</a></strong> em conjunto com o PO (Product Owner) e a UX Designer da empresa</li>
 	</ul>
 	
 <br>
