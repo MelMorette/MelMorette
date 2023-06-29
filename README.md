@@ -4,7 +4,7 @@
 	
 <p align="left"> 
 <!-- 	na <strong><a href="https://www.gismedia.pt/pt-pt/">GISMEDIA</a></strong> -->
-	Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack.
+	Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack</strong>.
 	Atualmente, estou trabalhando com as seguintes tecnologias:
 </p>
 	
