@@ -42,7 +42,7 @@
 </header>
 
 <main>
-	<h2>:bulb: Projetos Pessoais</h2>
+	<h2>:bulb: Projetos</h2>
 	<p align="left">
   	Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos que você pode conferir abaixo. ⤵️
 	</p>
