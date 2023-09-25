@@ -50,8 +50,8 @@
 		<li><a href="http://pokedex-mellissa-morette.surge.sh/" target="_blank"><strong>Pokédex</strong></a> - Projeto criado em React.js consumindo a Poke API para finalizar os módulos de front-end do bootcamp da <strong><a href="https://www.labenu.com.br/" target="_blank">Labenu</a></strong>.</li>
 		<li><a href="https://www.louielouie.biz" target="_blank"><strong>Loja de Discos Louie Louie</strong></a> - Projeto de um e-commerce criado com PHP, Bootstrap, JQuery, MySQL e integração com a API da IF THEN PAY para realização de pagamentos online. Trabalho feito para um cliente da <strong><a href="https://www.gismedia.pt/pt-pt/" target="_blank">GISMEDIA</a></strong> em conjunto com o PO (Product Owner) e a UX Designer da empresa.</li>
 		<li><a href="https://www.egisportugal.pt/pt/" target="_blank"><strong>Egis Road Operation Portugal</strong></a> - Projeto de um ERP criado com PHP, Bootstrap, JQuery e MySQL. Trabalho ainda sendo realizado para a <strong><a href="https://www.gismedia.pt/pt-pt/" target="_blank">GISMEDIA</a></strong> em conjunto com toda a equipe da empresa.</li>
+		<li><a href="https://www.aeatlantico.pt/pt/" target="_blank"><strong>Auto-Estradas do Atântico</strong></a> - Projeto de um Website criado com PHP, Bootstrap, JQuery e MySQL e integrado com o MapGuide. Trabalho ainda sendo realizado para a <strong><a href="https://www.gismedia.pt/pt-pt/" target="_blank">GISMEDIA</a></strong> em conjunto com toda a equipe da empresa.</li>
 	</ul>
-	
 <br>
 </main>
 
