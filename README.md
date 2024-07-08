@@ -28,13 +28,15 @@
 	<p align="center">
 		<img align="center" alt="Mel-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL
 	</p>
+
+ 
 </p>
 
 <hr>
 
 <div align="center">
 	<a href="https://github.com/MelMorette">
-		<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&show_icons=true"/>
+<!-- 		<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&show_icons=true"/> -->
 		<img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=transparent&show_icons=true"/>
 	</a>
 </div>
