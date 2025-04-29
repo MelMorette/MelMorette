@@ -1,5 +1,5 @@
 <header>
-<h1>:mag: Sobre Mim</h1>
+<h1>:mag: Sobre Mim <img src="https://komarev.com/ghpvc/?username=melmorette&style=flat-square&color=blue" alt="Contador de visitas" /></h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="300px" align="right" alt="Computador MelMorette">
 	
 <p align="left"> 
@@ -7,7 +7,7 @@
 	Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack</strong>.
 	Atualmente, trabalho e tenho conhecimento nas seguintes tecnologias:
 </p>
-	
+
 <br>
 	
 <p align="left">
@@ -36,8 +36,10 @@
 
 <div align="center">
 	<a href="https://github.com/MelMorette">
-<!-- 		<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=MelMorette&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&show_icons=true"/> -->
-		<img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelMorette&layout=compact&langs_count=7&theme=transparent&show_icons=true"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=melmorette&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melmorette&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas" />
+		<img src="https://streak-stats.demolab.com/?user=melmorette&theme=tokyonight" alt="GitHub Streak" />
+		<img src="https://github-profile-trophy.vercel.app/?username=melmorette&theme=tokyonight&row=1&column=7" alt="Trophies" />
 	</a>
 </div>
 
@@ -65,5 +67,10 @@
 		<a href = "mailto:mellissamorette@outlook.pt"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 		<a href="https://www.linkedin.com/in/mellissa-morette/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 	</div> 
+
+ <p align="center">
+  Obrigado por visitar meu perfil! ⭐️<br>
+  <i>Conecte-se comigo para trocarmos ideias!</i>
+</p>
 </footer>
 
