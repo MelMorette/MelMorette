@@ -1,76 +1,84 @@
 <header>
-<h1>:mag: Sobre Mim <img src="https://komarev.com/ghpvc/?username=melmorette&style=flat-square&color=blue" alt="Contador de visitas" /></h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="300px" align="right" alt="Computador MelMorette">
-	
-<p align="left"> 
-<!-- 	na <strong><a href="https://www.gismedia.pt/pt-pt/">GISMEDIA</a></strong> -->
-	Olá! Meu nome é <strong>Mellissa Morette</strong> e sou <strong>Desenvolvedora Web Full Stack</strong>.
-	Atualmente, trabalho e tenho conhecimento nas seguintes tecnologias:
-</p>
-
-<br>
-	
-<p align="left">
-	<p align="center">
-		<img align="center" alt="Mel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML 5
-		<img align="center" alt="Mel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3
-		<img align="center" alt="Mel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> Javascript
-		<img align="center" alt="Mel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React.js
-		<img align="center" alt="Mel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> Bootstrap
-	</p>
-	<p align="center">
-		<img align="center" alt="Mel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> Typescript
-		<img align="center" alt="Mel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js
-		<img align="center" alt="Mel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP
-		<img align="center" alt="Mel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
-		<img align="center" alt="Mel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> JQuery
-	</p>
-	<p align="center">
-		<img align="center" alt="Mel-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL
-	</p>
-
- 
-</p>
-
-<hr>
-
-<div align="center">
-	<a href="https://github.com/MelMorette">
-		<img src="https://github-readme-stats.vercel.app/api?username=melmorette&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melmorette&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas" />
-		<img src="https://streak-stats.demolab.com/?user=melmorette&theme=tokyonight" alt="GitHub Streak" />
-		<img src="https://github-profile-trophy.vercel.app/?username=melmorette&theme=tokyonight&row=1&column=7" alt="Trophies" />
-	</a>
-</div>
-
-<hr>
+  <h2>:mag: Sobre Mim <img src="https://komarev.com/ghpvc/?username=melmorette&style=flat-square&color=blue" alt="Contador de visitas" /></h2>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="100px" align="left" alt="Computador MelMorette">
+  <p align="left"> Atuo no desenvolvimento de software com foco em <strong>sistemas web, aplicações internas e soluções corporativas</strong>. Ao longo da minha experiência, participei da concepção, evolução e manutenção de projetos de diferentes níveis de complexidade — desde sistemas internos até plataformas voltadas ao público final. </p>
+  <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=melmorette&show_icons=true&theme=tokyonight&hide_border=true" /><img min-width="420px" max-width="420px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melmorette&layout=compact&theme=tokyonight&hide_border=true" /></div> -->
 </header>
 
 <main>
-	<h2>:bulb: Projetos</h2>
-	<p align="left">
-  	Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos que você pode conferir abaixo. ⤵️
-	</p>
-	<ul>
-		<li><a href="http://pokedex-mellissa-morette.surge.sh/" target="_blank"><strong>Pokédex</strong></a> - Projeto criado em React.js consumindo a Poke API para finalizar os módulos de front-end do bootcamp da <strong><a href="https://www.labenu.com.br/" target="_blank">Labenu</a></strong>.</li>
-		<li><a href="https://www.louielouie.biz" target="_blank"><strong>Loja de Discos Louie Louie</strong></a> - Projeto de um e-commerce criado com PHP, Bootstrap, JQuery, MySQL e integração com a API da IF THEN PAY para realização de pagamentos online.</li>
-		<li><a href="https://www.egisportugal.pt/pt/" target="_blank"><strong>Egis Road Operation Portugal</strong></a> - Projeto de um ERP criado com PHP, Bootstrap, JQuery e SQL Server.</li>
-		<li><a href="https://www.aeatlantico.pt/pt/" target="_blank"><strong>Auto-Estradas do Atântico</strong></a> - Projeto de um Website criado com PHP, Bootstrap, JQuery e SQL Server e integrado com o MapGuide.</li>
-		<li><a href="https://www.explicandum.pt" target="_blank"><strong>Explicandum</strong></a> - Projeto de uma intranet criada com PHP, Bootstrap, JQuery e MySQL.</li>
-	</ul>
-<br>
+  <h3>🧰 Tecnologias</h3>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th align="center">Linguagens & Base</th>
+        <th align="center">Frontend</th>
+        <th align="center">Backend, Dados & DevOps</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img alt="JavaScript" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+          <img alt="PHP" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+          <img alt="Laravel" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+        </td>
+        <td align="center">
+          <img alt="Bootstrap" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+          <img alt="jQuery" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+        </td>
+        <td align="center">
+          <img alt="MySQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+          <img alt="SQL Server" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftsqlserver.svg">
+          <img alt="Azure DevOps" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <p>
+    <i>Experiência com versionamento, pipelines de CI/CD e automação de deploy utilizando Azure DevOps.</i>
+  </p>
+  <h3>:bulb: Projetos</h3>
+  <p align="left"> Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos que você pode conferir abaixo. ⤵️ </p>
+  <ul>
+    <li>
+      <a href="https://www.louielouie.biz" target="_blank">
+        <strong>Loja de Discos Louie Louie</strong>
+      </a> – Desenvolvimento de uma plataforma de e-commerce completa, incluindo catálogo de produtos, fluxo de compras, gestão administrativa e integração com meios de pagamento online.
+    </li>
+    <li>
+      <a href="https://www.egisportugal.pt/pt/" target="_blank">
+        <strong>Egis Road Operation Portugal</strong>
+      </a> – Participação no desenvolvimento de um sistema ERP corporativo voltado à gestão operacional, com foco em processos internos, organização de dados e suporte às rotinas do negócio.
+    </li>
+    <li>
+      <a href="https://www.aeatlantico.pt/pt/" target="_blank">
+        <strong>Auto-Estradas do Atlântico</strong>
+      </a> – Desenvolvimento e manutenção de website institucional integrado a sistemas de mapas, com foco em informação ao usuário, visualização geográfica e estabilidade operacional.
+    </li>
+    <li>
+      <a href="https://www.explicandum.pt" target="_blank">
+        <strong>Explicandum</strong>
+      </a> – Desenvolvimento de uma intranet para uso interno, com controle de acesso, gestão de informações e suporte a processos administrativos e educacionais.
+    </li>
+  </ul>
+  <p align="left"> Além dos projetos listados, tenho experiência com sistemas legados, refatoração de código, melhoria de arquitetura e adoção gradual de boas práticas em ambientes já existentes. </p>
 </main>
 
+<br>
+
 <footer>
-	<div align="center">
-		<a href="https://instagram.com/mellissa_morette" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-		<a href = "mailto:mellissamorette@outlook.pt"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-		<a href="https://www.linkedin.com/in/mellissa-morette/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-	</div> 
-
- <p align="center">
-  Obrigado por visitar meu perfil! ⭐️<br>
-  <i>Conecte-se comigo para trocarmos ideias!</i>
-</p>
+  <div align="center">
+    <a href="https://instagram.com/mellissa_morette" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:mellissamorette@outlook.pt">
+      <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/mellissa-morette/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+  </div>
+  <p align="center"> Obrigado por visitar meu perfil! ⭐️ <br>
+    <i>Conecte-se comigo para trocarmos ideias!</i>
+  </p>
 </footer>
-
