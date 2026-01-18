@@ -1,5 +1,6 @@
 <header>
-  <h2>:mag: Sobre Mim <img src="https://komarev.com/ghpvc/?username=melmorette&style=flat-square&color=blue" alt="Contador de visitas" /></h2>
+  <!-- <h2>:mag: Sobre Mim <img src="https://komarev.com/ghpvc/?username=melmorette&style=flat-square&color=blue" alt="Contador de visitas" /></h2> -->
+  <h2>:mag: Sobre Mim</h2>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="100px" align="left" alt="Computador MelMorette">
 
   <p align="left"> Atuo no desenvolvimento de software com foco em <strong>sistemas web, aplicações internas e soluções corporativas</strong>. Ao longo da minha experiência, participei da concepção, evolução e manutenção de projetos de diferentes níveis de complexidade — desde sistemas internos até plataformas voltadas ao público final. </p>
@@ -11,27 +12,28 @@
   <table style="min-width: 100%;">
     <thead>
       <tr>
-        <th align="center">Linguagens & Base</th>
-        <th align="center">Frontend</th>
-        <th align="center">Backend, Dados & DevOps</th>
+        <th align="center">----- Linguagens & Base -----</th>
+        <th align="center">----- Frontend -----</th>
+        <th align="center">----- Backend, Dados & DevOps -----</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center">
-          <img alt="JavaScript" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg"> Javascript
-          <img alt="PHP" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/php.svg"> PHP
-          <img alt="Laravel" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/laravel.svg"> Laravel
+          <img alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg">
+          <img alt="PHP" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/php.svg">
+          <img alt="Laravel" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/laravel.svg">
         </td>
         <td align="center">
-          <img alt="Tailwind" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tailwindcss.svg"> Tailwind
-          <img alt="Bootstrap" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/bootstrap.svg"> Bootstrap
-          <img alt="jQuery" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/jquery.svg"> Jquery
+          <img alt="Tailwind" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tailwindcss.svg">
+          <img alt="Bootstrap" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/bootstrap.svg">
+          <img alt="jQuery" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/jquery.svg">
         </td>
         <td align="center">
-          <img alt="MySQL" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg"> MySQL
-          <img alt="SQL Server" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftsqlserver.svg"> SQL Server
-          <img alt="Azure DevOps" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/azuredevops.svg"> AzureDevOps
+          <img alt="SQL Server" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftsqlserver.svg">
+          <img alt="MySQL" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg">
+          <img alt="PostgreSQL" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/postgresql.svg">
+          <img alt="Azure DevOps" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/azuredevops.svg">
         </td>
       </tr>
     </tbody>
