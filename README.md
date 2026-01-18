@@ -8,7 +8,7 @@
 
 <main>
   <h2>🧰 Tecnologias</h2>
-  <table width="100%">
+  <table style="min-width: 100%;">
     <thead>
       <tr>
         <th align="center">Linguagens & Base</th>
@@ -70,9 +70,9 @@
 
 <footer>
   <div align="center">
-    <a href="https://instagram.com/mellissa_morette" target="_blank">
+    <!-- <a href="https://instagram.com/mellissa_morette" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
+    </a> -->
     <a href="mailto:mellissamorette@outlook.pt">
       <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank">
     </a>
