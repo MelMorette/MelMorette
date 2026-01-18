@@ -19,18 +19,19 @@
     <tbody>
       <tr>
         <td align="center">
-          <img alt="JavaScript" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-          <img alt="PHP" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-          <img alt="Laravel" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+          <img alt="JavaScript" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg"> Javascript
+          <img alt="PHP" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/php.svg"> PHP
+          <img alt="Laravel" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/laravel.svg"> Laravel
         </td>
         <td align="center">
-          <img alt="Bootstrap" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-          <img alt="jQuery" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+          <img alt="Tailwind" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tailwindcss.svg"> Tailwind
+          <img alt="Bootstrap" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/bootstrap.svg"> Bootstrap
+          <img alt="jQuery" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/jquery.svg"> Jquery
         </td>
         <td align="center">
-          <img alt="MySQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-          <img alt="SQL Server" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftsqlserver.svg">
-          <img alt="Azure DevOps" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+          <img alt="MySQL" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg"> MySQL
+          <img alt="SQL Server" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftsqlserver.svg"> SQL Server
+          <img alt="Azure DevOps" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/azuredevops.svg"> AzureDevOps
         </td>
       </tr>
     </tbody>
