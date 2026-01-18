@@ -71,13 +71,13 @@
 <footer>
   <div align="center">
     <!-- <a href="https://instagram.com/mellissa_morette" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a> -->
     <a href="mailto:mellissamorette@outlook.pt">
-      <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/mellissa-morette/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
   <p align="center"> Obrigado por visitar meu perfil! ⭐️ <br>
