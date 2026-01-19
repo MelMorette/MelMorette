@@ -16,12 +16,13 @@
 
 <main>
   <h2>🧰 Tecnologias</h2>
+  <div width="1200" align="center">
   <table style="min-width: 100%;">
     <thead>
       <tr>
-        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linguagens & Base &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend, Dados & DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linguagens & Base &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend, Dados & DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
       </tr>
     </thead>
     <tbody>
@@ -45,6 +46,7 @@
       </tr>
     </tbody>
   </table>
+  </div>
 
   <h2>:bulb: Projetos</h2>
   <p align="left"> Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos que você pode conferir abaixo. ⤵️ </p>
