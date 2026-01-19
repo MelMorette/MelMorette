@@ -19,9 +19,9 @@
   <table style="min-width: 100%;">
     <thead>
       <tr>
-        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linguagens & Base &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend, Dados & DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linguagens & Base &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend, Dados & DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
       </tr>
     </thead>
     <tbody>
@@ -45,9 +45,6 @@
       </tr>
     </tbody>
   </table>
-  <p>
-    <i>Experiência com versionamento, pipelines de CI/CD e automação de deploy utilizando Azure DevOps.</i>
-  </p>
 
   <h2>:bulb: Projetos</h2>
   <p align="left"> Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos que você pode conferir abaixo. ⤵️ </p>
@@ -73,7 +70,7 @@
       </a> – Desenvolvimento de uma intranet para uso interno, com controle de acesso, gestão de informações e suporte a processos administrativos e educacionais.
     </li>
   </ul>
-  <p align="left"> Além dos projetos listados, tenho experiência com sistemas legados, refatoração de código, melhoria de arquitetura e adoção gradual de boas práticas em ambientes já existentes. </p>
+  <p align="left"> Além dos projetos listados, tenho experiência com sistemas legados, refatoração de código, melhoria de arquitetura e adoção gradual de boas práticas em ambientes já existentes, experiência com versionamento, pipelines de CI/CD e automação de deploy utilizando Azure DevOps.</p>
 </main>
 
 <br>
