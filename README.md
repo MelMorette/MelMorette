@@ -1,4 +1,5 @@
 <header>
+  <img width="1200" height="150" alt="image" src="https://camo.githubusercontent.com/b96ce11ce9e505e4fc1db36ed0d953263cc46a974878a3a4caf06f1b12a87425/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374633414345266865696768743d3132302673656374696f6e3d686561646572"/>
   <!-- <h2>:mag: Sobre Mim <img src="https://komarev.com/ghpvc/?username=melmorette&style=flat-square&color=blue" alt="Contador de visitas" /></h2> -->
   <h2>:mag: Sobre Mim</h2>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="100px" align="left" alt="Computador MelMorette">
@@ -86,4 +87,5 @@
   <p align="center"> Obrigado por visitar meu perfil! ⭐️ <br>
     <i>Conecte-se comigo para trocarmos ideias!</i>
   </p>
+  <img width="1400" height="150" alt="image" src="https://camo.githubusercontent.com/ced2068c0d17dc36647057cb3ac4df5dcddec7a34814184238851ca6cc5f0d06/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374633414345266865696768743d3132302673656374696f6e3d666f6f746572"/>
 </footer>
