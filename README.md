@@ -7,14 +7,17 @@
     </a>
   </div>
   <!-- <h2>:mag: Sobre Mim <img src="https://komarev.com/ghpvc/?username=melmorette&style=flat-square&color=blue" alt="Contador de visitas" /></h2> -->
-  <h2>:mag: Sobre Mim</h2>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="100px" align="left" alt="Computador MelMorette">
-
-  <p align="left"> Atuo no desenvolvimento de software com foco em <strong>sistemas web, aplicações internas e soluções corporativas</strong>. Ao longo da minha experiência, participei da concepção, evolução e manutenção de projetos de diferentes níveis de complexidade — desde sistemas internos até plataformas voltadas ao público final. </p>
   <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=melmorette&show_icons=true&theme=tokyonight&hide_border=true" /><img min-width="420px" max-width="420px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melmorette&layout=compact&theme=tokyonight&hide_border=true" /></div> -->
 </header>
 
 <main>
+  <h2>:mag: Sobre Mim</h2>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="100px" align="left" alt="Computador MelMorette">
+
+  <p align="left"> Atuo no desenvolvimento de software com foco em <strong>sistemas web, aplicações internas e soluções corporativas</strong>. Ao longo da minha experiência, participei da concepção, evolução e manutenção de projetos de diferentes níveis de complexidade — desde sistemas internos até plataformas voltadas ao público final. </p>
+  
+  <br>
+  
   <h2>🧰 Tecnologias</h2>
   <div width="1200" align="center">
   <table style="min-width: 100%;">
@@ -47,6 +50,8 @@
     </tbody>
   </table>
   </div>
+  
+  <br>
 
   <h2>:bulb: Projetos</h2>
   <p align="left"> Tenho experiência em desenvolvimento de software, incluindo <strong>TI e análises de dados com Power BI</strong>, e tenho trabalhado em diversos projetos que você pode conferir abaixo. ⤵️ </p>
