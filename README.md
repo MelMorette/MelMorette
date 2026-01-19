@@ -1,8 +1,11 @@
 <header>
   <img width="1200" height="150" alt="image" src="https://camo.githubusercontent.com/b96ce11ce9e505e4fc1db36ed0d953263cc46a974878a3a4caf06f1b12a87425/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374633414345266865696768743d3132302673656374696f6e3d686561646572"/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=9602D7&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hello+World!;Meu+nome+%C3%A9+Mellissa+Morette.;Muito+prazer!)](https://git.io/typing-svg)
-
+  <div width="1200" align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=9602D7&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hello+World!;Meu+nome+%C3%A9+Mellissa+Morette.;Muito+prazer!" alt="Typing SVG" />
+    </a>
+  </div>
   <!-- <h2>:mag: Sobre Mim <img src="https://komarev.com/ghpvc/?username=melmorette&style=flat-square&color=blue" alt="Contador de visitas" /></h2> -->
   <h2>:mag: Sobre Mim</h2>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="100px" align="left" alt="Computador MelMorette">
@@ -87,7 +90,7 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
-  <p align="center"> Obrigado por visitar meu perfil! ⭐️ <br>
+  <p align="center"> Obrigada por visitar meu perfil! ⭐️ <br>
     <i>Conecte-se comigo para trocarmos ideias!</i>
   </p>
   <img width="1400" height="150" alt="image" src="https://camo.githubusercontent.com/ced2068c0d17dc36647057cb3ac4df5dcddec7a34814184238851ca6cc5f0d06/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374633414345266865696768743d3132302673656374696f6e3d666f6f746572"/>
